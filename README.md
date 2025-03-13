@@ -2,7 +2,7 @@
 
 This repository contains a **Tetris** game implemented using **JavaScript, HTML, and CSS**. The project is inspired by the classic Tetris gameplay, where players stack falling blocks to complete horizontal lines and score points.
 
-![obraz](https://github.com/user-attachments/assets/b97dd35e-f996-4421-aa38-e3d36a2d1159)
+![](https://github.com/kKita9/Tetris/blob/main/tetris.gif)
 
 ## 🛠️ Technologies Used
 - **JavaScript** – Handles game logic and interactions
